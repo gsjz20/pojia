@@ -4,7 +4,7 @@
 
 **写文案、改代码、做翻译、整理资料，一个入口就够了。**
 
-破甲 AI 中转站聚合 ChatGPT / GPT-4.1、Claude、GLM、Grok 等热门模型，面向个人用户、开发者和团队，提供统一的 AI 使用入口。日常问答、内容创作、办公总结和代码辅助，都可以根据需求选择模型。
+破甲 AI 中转站聚合 ChatGPT / deepseek、Claude、GLM、Grok 等热门模型，面向个人用户、开发者和团队，提供统一的 AI 使用入口。日常问答、内容创作、办公总结和代码辅助，都可以根据需求选择模型。
 
 👉 **[访问破甲 AI 中转站](http://t.cn/AXlaxUOB)**
 
@@ -23,7 +23,7 @@
 
 ## 关键词与长尾词
 
-**核心关键词：** 破甲AI、破甲AI中转站、AI中转站、ChatGPT中转站、GPT-4.1、Claude中转站、GLM、Grok、AI写作工具、AI编程助手、AI办公助手。
+**核心关键词：** 破甲AI、破甲AI中转站、AI中转站、ChatGPT中转站、deepseek、Claude中转站、GLM、Grok、AI写作工具、AI编程助手、AI办公助手。
 
 **长尾关键词：** 破甲AI中转站入口、破甲AI中转站怎么样、ChatGPT中转站推荐、Claude在线使用入口、支持ChatGPT和Claude的AI平台、多模型AI中转站、AI写作编程办公一体化工具、长文总结与文档润色AI工具。
 
